@@ -63,9 +63,6 @@ public class Postagem {
 	public void setDate(Date date) {
 		this.date = date;
 	}
-	
-	
-
 }
 
 
